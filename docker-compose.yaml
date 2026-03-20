@@ -1,0 +1,21 @@
+services:
+  # Combined frontend + backend service
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8060:80"
+      # - "3099:3002"
+    environment:
+      - NODE_ENV=production
+      - PORT=3002
+    volumes:
+      # Persist SQLite database
+      - sqlite-data:/app/backend/data
+    restart: unless-stopped
+
+# Named volumes for persistent data
+volumes:
+  sqlite-data:
+    driver: local

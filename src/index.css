@@ -1,0 +1,230 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-[#121212] text-[#F5F5F5];
+    font-family: 'Open Sans', 'Roboto', sans-serif;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+  /* Light theme styles */
+  html.light body {
+    @apply bg-[#F5F5F5] text-[#121212];
+  }
+
+  html.light .text-[\\#F5F5F5] {
+    @apply text-[#121212];
+  }
+
+  html.light .text-\[\\#B2EBF2\] {
+    @apply text-[#1A237E];
+  }
+
+  html.light .bg-\[\\#121212\] {
+    @apply bg-[#F5F5F5];
+  }
+
+  html.light .bg-gradient-to-b {
+    --tw-gradient-from: #F5F5F5 !important;
+    --tw-gradient-to: #E0E0E0 !important;
+  }
+
+  html.light .feature-card {
+    @apply bg-white border-gray-200;
+  }
+
+  html.light .section-deep {
+    @apply bg-gradient-to-b from-gray-100 to-gray-200;
+  }
+
+  /* Global image styles to prevent overflow */
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+
+  /* Custom Scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-[#121212];
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-[#1A237E] rounded-full border-2 border-[#121212] hover:bg-[#00D2FF]/50 transition-colors;
+  }
+
+  /* Typography Classes */
+  .font-headline {
+    font-family: 'Montserrat', 'Oswald', sans-serif;
+  }
+  
+  .font-body {
+    font-family: 'Open Sans', 'Roboto', sans-serif;
+  }
+}
+
+@layer components {
+  /* Color Palette CSS Variables */
+  :root {
+    --color-primary: #00D2FF;        /* Luminous Electric Blue */
+    --color-secondary: #FFC107;       /* Warm Golden Yellow */
+    --color-deep-bg: #121212;         /* Deep Background */
+    --color-deep-bg-alt: #1A237E;     /* Deep Indigo / Night Sky */
+    --color-mid-tone: #880E4F;        /* Deep Magenta / Purple */
+    --color-text-primary: #F5F5F5;    /* Cool White */
+    --color-text-secondary: #B2EBF2; /* Soft Light Blue */
+    --color-text-dark: #333333;       /* Deep Charcoal */
+  }
+
+  /* Light theme CSS variables */
+  html.light {
+    --color-primary: #0088CC;         /* Darker Blue for light theme */
+    --color-secondary: #E6A300;       /* Darker Yellow for light theme */
+    --color-deep-bg: #F5F5F5;         /* Light Background */
+    --color-deep-bg-alt: #E0E0E0;    /* Light Gray */
+    --color-mid-tone: #660033;       /* Darker Magenta */
+    --color-text-primary: #121212;    /* Dark Text */
+    --color-text-secondary: #1A237E; /* Darker Blue */
+    --color-text-dark: #666666;       /* Lighter Charcoal */
+  }
+
+  /* Neon Glow Effects */
+  .neon-glow {
+    text-shadow: 0 0 10px rgba(0, 210, 255, 0.5), 0 0 20px rgba(0, 210, 255, 0.3);
+  }
+
+  .neon-glow-warm {
+    text-shadow: 0 0 10px rgba(255, 193, 7, 0.5), 0 0 20px rgba(255, 193, 7, 0.3);
+  }
+
+  .neon-border {
+    box-shadow: 0 0 15px rgba(0, 210, 255, 0.2), inset 0 0 15px rgba(0, 210, 255, 0.1);
+  }
+
+  .neon-border-hover:hover {
+    box-shadow: 0 0 20px rgba(0, 210, 255, 0.4), inset 0 0 20px rgba(0, 210, 255, 0.2);
+  }
+
+  /* Luminous Pulse Effect for Hover States */
+  .luminous-pulse {
+    animation: luminousPulse 2s ease-in-out infinite;
+  }
+
+  @keyframes luminousPulse {
+    0%, 100% {
+      box-shadow: 0 0 5px rgba(0, 210, 255, 0.3), 0 0 10px rgba(0, 210, 255, 0.2);
+    }
+    50% {
+      box-shadow: 0 0 15px rgba(0, 210, 255, 0.5), 0 0 30px rgba(0, 210, 255, 0.3);
+    }
+  }
+
+  /* Cyber Grid */
+  .cyber-grid {
+    background-image: linear-gradient(to right, rgba(0, 210, 255, 0.1) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(0, 210, 255, 0.1) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+
+  /* Scanline Effect */
+  .scanline {
+    width: 100%;
+    height: 100px;
+    z-index: 10;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgba(0, 210, 255, 0.1) 50%, rgba(0, 0, 0, 0) 100%);
+    opacity: 0.1;
+    position: absolute;
+    bottom: 100%;
+    animation: scanline 10s linear infinite;
+  }
+
+  /* Background Texture Overlay */
+  .bg-texture {
+    position: relative;
+  }
+  
+  .bg-texture::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: url('/images/prompt5.png');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.05;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* Card Styles with Glowing Borders */
+  .feature-card {
+    @apply bg-[#121212] border border-[#00D2FF]/30 rounded-2xl p-6 transition-all duration-300;
+  }
+  
+  .feature-card:hover {
+    @apply border-[#00D2FF]/60;
+    box-shadow: 0 0 20px rgba(0, 210, 255, 0.2);
+  }
+
+  /* CTA Button Styles */
+  .cta-button {
+    @apply px-8 py-4 bg-[#00D2FF] text-[#121212] font-bold rounded-xl;
+    box-shadow: 0 0 20px rgba(0, 210, 255, 0.4);
+    transition: all 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    @apply bg-[#00D2FF];
+    box-shadow: 0 0 40px rgba(0, 210, 255, 0.6);
+    transform: translateY(-2px);
+  }
+
+  /* Gradient Text */
+  .gradient-text {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(to right, #00D2FF, #FFC107);
+  }
+
+  /* Parallax Container */
+  .parallax-container {
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* Deep Background Sections */
+  .section-deep {
+    @apply bg-[#121212];
+    background: linear-gradient(135deg, #121212 0%, #1A237E 100%);
+  }
+}
+
+@keyframes scanline {
+  0% { bottom: 100%; }
+  100% { bottom: -100px; }
+}
+
+@keyframes flicker {
+  0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% { opacity: 1; }
+  20%, 21.999%, 63%, 63.999%, 65%, 69.999% { opacity: 0.4; }
+}
+
+.animate-flicker {
+  animation: flicker 3s linear infinite;
+}
+
+/* VND Ticker Animation */
+@keyframes ticker {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.ticker-animate {
+  animation: ticker 30s linear infinite;
+}
