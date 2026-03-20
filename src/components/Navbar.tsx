@@ -18,6 +18,7 @@ export const Navbar: React.FC<NavbarProps> = ({ lang, setLang }) => {
     { name: 'Details', href: '#learn-more' },
     { name: t.competition, href: '#competition' },
     { name: t.gapAnalysis, href: '#gap-analysis' },
+    { name: 'Teams', href: '#teams' },
     { name: t.sponsors, href: '#sponsors' },
     { name: 'Register', href: '#register' },
   ];

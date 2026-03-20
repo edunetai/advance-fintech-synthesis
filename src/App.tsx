@@ -10,6 +10,7 @@ import { TeamsTable } from './components/TeamsTable';
 import { Footer } from './components/Footer';
 import { Language } from './translations';
 import { ThemeProvider, useTheme } from './context/ThemeContext';
+import Chat from './components/Chat';
 
 function AppContent() {
   const [lang, setLang] = React.useState<Language>('vi');
@@ -30,6 +31,7 @@ function AppContent() {
       </main>
 
       <Footer lang={lang} />
+      <Chat />
     </div>
   );
 }

@@ -1,0 +1,270 @@
+AFS 2026
+Trang chủ
+Details
+Cuộc thi
+Phân tích khoảng cách
+Nhà tài trợ
+Register
+
+
+vi
+Market Analysis
+
+Trao quyền cho Thế hệ tiếp theo: Đổi mới Fintech Cyberpunk
+Advance Fintech Synthesis
+AI Nội địa hóa cho Tương lai Tài chính Việt Nam
+
+
+Đăng ký ngay
+Learn More
+VND 15,000,000 → Transaction #AFS1001
+VND 28,500,000 → Payment Received
+VND 5,200,000 → Transfer Complete
+VND 42,000,000 → Investment +%
+VND 15,000,000 → Transaction #AFS1002
+VND 28,500,000 → Payment Received
+VND 5,200,000 → Transfer Complete
+VND 42,000,000 → Investment +%
+VND 15,000,000 → Transaction #AFS1003
+VND 28,500,000 → Payment Received
+VND 5,200,000 → Transfer Complete
+VND 42,000,000 → Investment +%
+VND 15,000,000 → Transaction #AFS1004
+VND 28,500,000 → Payment Received
+VND 5,200,000 → Transfer Complete
+VND 42,000,000 → Investment +%
+VND 15,000,000 → Transaction #AFS1005
+VND 28,500,000 → Payment Received
+VND 5,200,000 → Transfer Complete
+VND 42,000,000 → Investment +%
+VND 15,000,000 → Transaction #AFS1006
+VND 28,500,000 → Payment Received
+VND 5,200,000 → Transfer Complete
+VND 42,000,000 → Investment +%
+VND 15,000,000 → Transaction #AFS1007
+VND 28,500,000 → Payment Received
+VND 5,200,000 → Transfer Complete
+VND 42,000,000 → Investment +%
+VND 15,000,000 → Transaction #AFS1008
+VND 28,500,000 → Payment Received
+VND 5,200,000 → Transfer Complete
+VND 42,000,000 → Investment +%
+VND 15,000,000 → Transaction #AFS1009
+VND 28,500,000 → Payment Received
+VND 5,200,000 → Transfer Complete
+VND 42,000,000 → Investment +%
+VND 15,000,000 → Transaction #AFS1010
+VND 28,500,000 → Payment Received
+VND 5,200,000 → Transfer Complete
+VND 42,000,000 → Investment +%
+Chi tiết cuộc thi
+Mục tiêu chính là kết nối kiến thức fintech nền tảng với các kỹ thuật AI nâng cao cho Tài chính và Ngân hàng. Thí sinh phải vượt qua dữ liệu truyền thống và hạn chế của API toàn cầu tiêu chuẩn để tạo ra sản phẩm sẵn sàng cho các bên liên quan cấp chuyên nghiệp.
+
+Các giai đoạn thi chính
+Giai đoạn 1: Trí tuệ tài chính dựa trên AI
+Dữ liệu thay thế: Sử dụng AI để thu thập và phân tích dữ liệu không truyền thống (ví dụ: tâm lý mạng xã hội, hình ảnh vệ tinh, xu hướng bán lẻ thu thập từ web, hoặc sử dụng di động)
+
+Cải thiện logic dịch vụ: Chứng minh cách dữ liệu này nâng cao các chức năng cốt lõi như chấm điểm tín dụng, phát hiện gian lận, hoặc tư vấn đầu tư cá nhân
+
+Giai đoạn 2: Hạ tầng API tùy chỉnh
+Máy chủ OpenAPI độc quyền: Phát triển backend tùy chỉnh để giải quyết các hạn chế của các nhà cung cấp toàn cầu (như Stripe hoặc Plaid), đặc biệt liên quan đến vấn đề tiền tệ không phải Việt Nam
+
+Xử lý bản địa: Đảm bảo hệ thống đóng vai trò là trung tâm logic trung tâm nơi giao dịch và số dư cục bộ được hiển thị chính xác cho thị trường mục tiêu
+
+Giai đoạn 3: Tự động hóa Agentic & Tương tác
+Chatbot nâng cao: Tích hợp API Gemini để chuyển từ chat đơn giản sang quản lý tài khoản chức năng
+
+Giao dịch ngôn ngữ tự nhiên: Cho phép người dùng thực hiện giao dịch thực tế hoặc truy vấn thông tin chiết xuất từ AI thông qua các lệnh ngôn ngữ tự nhiên
+
+Tiêu chí đánh giá
+Criteria	Weight	Focus Area
+AI & Alternative Data
+30%	Extraction of value from non-traditional sources
+Custom API Infrastructure
+30%	Proprietary server functionality and design
+MVP UX & Agentic AI
+20%	Seamless UI and chatbot action capabilities
+Technical Documentation
+20%	Clarity of the AI and backend technical stack
+Nội dung nộp bài
+A 5-page technical report
+OpenAPI documentation (Swagger/YAML)
+A deployed MVP prototype link
+Projects will be presented at Demo Day attended by UII Incubator
+Register Now
+Nhà tài trợ
+Chúng tôi tự hào hợp tác với các nhà lãnh đạo trong ngành chia sẻ tầm nhìn về tương lai fintech Việt Nam.
+
+Nhà tài trợ Vàng
+Edunet JSC - Gold Sponsor
+Edunet
+
+UII - Gold Sponsor
+UII
+
+UII Incubator - Gold Sponsor
+UII Incubator
+
+Nhà tài trợ Bạc
+Long Dat Laptop - Silver Sponsor
+Long Dat Laptop
+
+Chi tiết cuộc thi
+
+Đăng ký
+Mở cho tất cả các nhà đổi mới Gen-Z. Đăng ký đội của bạn từ 3-5 thành viên.
+
+Đăng ký tại đây
+
+Đối tượng tham gia
+Sinh viên đại học hiện tại hoặc chuyên gia trẻ (18-25 tuổi) có niềm đam mê với fintech và AI.
+
+
+Các mốc thời gian quan trọng
+15/04/2026
+Hạn chót đăng ký
+10/05/2026
+Vòng sơ loại
+05/06/2026
+Ngày Demo chung kết
+
+Giải thưởng
+Giải Nhất
+2.000.000 VNĐ + tiềm năng với UII Incubator
+1
+Hướng dẫn nộp bài
+Nộp báo cáo PDF 5 trang và bản mẫu MVP chức năng (link triển khai).
+
+// SUBMISSION_FORMAT: PDF_5P + MVP_LINK
+// DEADLINE: 2026-04-15T23:59:59Z
+Phân tích khoảng cách Fintech
+Sự khác biệt cấu trúc và Căn chỉnh chiến lược: Việt Nam so với Tiêu chuẩn Toàn cầu.
+
+Technology Deep Dive
+Hệ sinh thái Fintech Việt Nam: Tổng quan 🌐
+Tổng quan về thị trường Fintech Việt Nam, từ các lĩnh vực chính đến các công ty nổi bật, cho thấy sự năng động và tiềm năng tăng trưởng đặc biệt.
+
+Vietnam Fintech Ecosystem Overview
+Định giá Fintech (2025)
+USD 72B+
+by 2029
+Dân số chưa có tài khoản ngân hàng
+70%
+Population
+Gian lận trực tuyến trong Tài chính (2023)
+91%
+Online Scams
+Tỷ lệ thâm nhập Internet
+72%
+Urban (2016)
+Vietnam Fintech Market Value (USD Billions)
+2023
+2025
+2029
+2032
+0
+25
+50
+75
+100
+Retail Trend Heatmap (Alternative Data)
+Real-time consumer sentiment and foot traffic analysis aggregated from social media, local search trends, and satellite imagery.
+
+Live Stream
+Sources: TikTok, Zalo, Google Maps
+Top 10 Structural Gaps
+1
+Cơ sở pháp lý
+Nghị định 13 của Việt Nam yêu cầu sự đồng ý rõ ràng cho tất cả việc xử lý dữ liệu, trong khi GDPR cho phép 'lợi ích hợp pháp' cho phân tích và ngăn ngừa gian lận.
+
+2
+Danh tính số
+Singpass của Singapore cung cấp KYC tức thì qua API MyInfo. VNeID của Việt Nam đang tiến bộ nhưng hiện thiếu quyền truy cập API tự phục vụ cho các fintech tư nhân.
+
+3
+Ngân hàng mở
+Anh/EU có sự tách biệt AISP/PISP trưởng thành cho thanh toán trực tiếp. Việt Nam đang ở Giai đoạn 1 (truy vấn cơ bản), với khởi tạo thanh toán (PIS) vẫn ở giai đoạn đầu.
+
+4
+Tín dụng nông nghiệp
+Các nhà lãnh đạo toàn cầu sử dụng hình ảnh vệ tinh cho nông dân 'hồ sơ mỏng'. Ở Việt Nam, dữ liệu độ phân giải cao cho các trang trại nhỏ vẫn quá đắt đỏ.
+
+5
+Quyền tự chủ AI
+Mỹ/Châu Âu đang chuyển từ AI-copilot sang các tác nhân tự trị (như Revolut). Tích hợp AI của Việt Nam vẫn chủ yếu là đàm thoại do sự không chắc chắn về pháp lý.
+
+6
+Xuyên biên giới
+Tiêu chuẩn toàn cầu sử dụng ISO 20022 và SWIFT UETR để theo dõi đầu cuối. Việc tích hợp đầy đủ của Việt Nam là mục tiêu tương lai, dẫn đến chậm trễ đối soát.
+
+7
+Tích hợp API
+Các API toàn cầu như Stripe/Plaid hỗ trợ VNĐ hạn chế. Các startup Việt Nam phải xây dựng máy chủ OpenAPI riêng để xử lý logic tiền tệ địa phương và tuân thủ.
+
+8
+Dữ liệu tiện ích
+SGFinDex của Singapore tổng hợp dữ liệu ngân hàng, bảo hiểm và chính phủ. Việt Nam thiếu trao đổi dữ liệu tiện ích tập trung, khiến thông tin bị cô lập.
+
+9
+Nguồn dữ liệu
+Các cơ quan tín dụng toàn cầu kết hợp lịch sử lương và thuê nhà. Việt Nam phụ thuộc nhiều vào dấu chân viễn thông và mạng xã hội, thiếu tích hợp hóa đơn tiện ích.
+
+10
+Sự linh hoạt quy định
+Các trung tâm fintech như London/Singapore có các lộ trình cấp phép tốc độ cao. Việt Nam đối mặt với 'độ trễ quy định' với các phê duyệt sandbox nghiêm ngặt.
+
+Đăng ký ngay
+Tham gia AFS 2026 và thể hiện đổi mới fintech của bạn. Hoàn thành form đăng ký bên dưới.
+
+Team Information
+Team Name *
+Enter your team name
+Team Size *
+
+3 Members
+Team Leader Details
+Full Name *
+Team leader's full name
+Email Address *
+your@email.com
+Phone Number *
++84 xxx xxx xxx
+Institution/Company *
+University or Company name
+
+Submit Registration
+By submitting, you agree to our terms and conditions.
+
+Các đội đã đăng ký
+Xem tất cả các đội đã đăng ký cho AFS 2026. Cuộc thi đang diễn ra!
+
+Tên đội
+Đội trưởng
+Ngày đăng ký
+Trạng thái
+FinTech Champions
+Nguyen Van A	
+Mar 19, 2026
+Chờ xử lý
+1
+Tổng số đội
+0
+Đã xác nhận
+1
+Chờ xử lý
+3
+Tổng số người tham gia
+
+AFS 2026
+Advance Fintech Synthesis: Bridging the gap between traditional finance and localized AI innovation for Vietnam's Gen-Z.
+
+Navigation
+Trang chủ
+Cuộc thi
+Phân tích khoảng cách
+© 2026 Advance Fintech Synthesis. All rights reserved.
+
+Privacy Policy
+Terms of Service
+
+0

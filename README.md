@@ -13,6 +13,7 @@ AFS 2026 brings together talented teams to solve Vietnam's most pressing fintech
 - 🏆 **Teams Dashboard** - Real-time leaderboard and team showcase
 - 🌍 **Multi-language Support** - Vietnamese and English translations
 - 🎨 **Dark/Light Theme** - User-selectable theme preference
+- 💬 **AI Chat Assistant** - Powered by Google Gemini for competition information
 
 ## Tech Stack
 
@@ -73,6 +74,7 @@ AFS 2026 brings together talented teams to solve Vietnam's most pressing fintech
 | GET | `/api/teams` | Get all registered teams |
 | GET | `/api/registrations` | Get all registrations (admin) |
 | GET | `/api/registrations/:id` | Get specific registration |
+| POST | `/api/chat` | Chat with AI assistant |
 | GET | `/api/health` | Health check |
 
 ## Project Structure
