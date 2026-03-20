@@ -1,6 +1,6 @@
 # Advance Fintech Synthesis 2026
 
-A modern competition website for the Advance Fintech Synthesis (AFS) 2026 - a premier fintech innovation challenge organized by UII Incubator in Vietnam.
+A modern competition website for the Advance Fintech Synthesis (AFS) 2026 - a premier fintech innovation challenge organized by Edunet and UII Incubator in Vietnam.
 
 ## Overview
 
